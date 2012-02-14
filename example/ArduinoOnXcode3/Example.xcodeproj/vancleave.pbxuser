@@ -1,0 +1,342 @@
+// !$*UTF8*$!
+{
+	01706F540A347F6900E43B08 /* Make */ = {
+		activeExec = 0;
+	};
+	01706F5B0A34807400E43B08 /* Upload */ = {
+		activeExec = 0;
+	};
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Development;
+		activeTarget = 341FF52214EAE64300473FC1 /* MakeAndUpload */;
+		addToTargets = (
+		);
+		codeSenseManager = 341FF4CC14EACB4200473FC1 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					1001,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1113,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1073,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 350939335;
+			PBXWorkspaceStateSaveDate = 350939335;
+		};
+		perUserProjectItems = {
+			341FF4D514EACC8C00473FC1 /* PBXTextBookmark */ = 341FF4D514EACC8C00473FC1 /* PBXTextBookmark */;
+			341FF4D614EACC8C00473FC1 /* PBXTextBookmark */ = 341FF4D614EACC8C00473FC1 /* PBXTextBookmark */;
+			341FF4D714EACC8C00473FC1 /* PBXTextBookmark */ = 341FF4D714EACC8C00473FC1 /* PBXTextBookmark */;
+			341FF4D814EACC8C00473FC1 /* PBXTextBookmark */ = 341FF4D814EACC8C00473FC1 /* PBXTextBookmark */;
+			341FF4D914EACC8C00473FC1 /* PBXTextBookmark */ = 341FF4D914EACC8C00473FC1 /* PBXTextBookmark */;
+			341FF51014EAE58200473FC1 /* PBXTextBookmark */ = 341FF51014EAE58200473FC1 /* PBXTextBookmark */;
+			341FF51114EAE58200473FC1 /* PBXTextBookmark */ = 341FF51114EAE58200473FC1 /* PBXTextBookmark */;
+			341FF51214EAE58200473FC1 /* PBXTextBookmark */ = 341FF51214EAE58200473FC1 /* PBXTextBookmark */;
+			341FF51314EAE58200473FC1 /* PBXTextBookmark */ = 341FF51314EAE58200473FC1 /* PBXTextBookmark */;
+			341FF51414EAE58200473FC1 /* PBXTextBookmark */ = 341FF51414EAE58200473FC1 /* PBXTextBookmark */;
+			341FF56114EAE6BB00473FC1 /* PBXTextBookmark */ = 341FF56114EAE6BB00473FC1 /* PBXTextBookmark */;
+			34B2AA1814EB0FDE005488EF /* PBXTextBookmark */ = 34B2AA1814EB0FDE005488EF /* PBXTextBookmark */;
+			34B2AA1A14EB0FDE005488EF /* XCBuildMessageTextBookmark */ = 34B2AA1A14EB0FDE005488EF /* XCBuildMessageTextBookmark */;
+			34B2AA1C14EB0FDE005488EF /* PBXTextBookmark */ = 34B2AA1C14EB0FDE005488EF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 341FF4CB14EACB4200473FC1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	224BEDA71483E17E00A7506B /* _basic_arduino_settings.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 737}}";
+			sepNavSelRange = "{591, 0}";
+			sepNavVisRange = "{0, 879}";
+		};
+	};
+	224BEDA81483E17E00A7506B /* Sanguino.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 762}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 320}";
+		};
+	};
+	22ACDB40146E9AC60021C93A /* Makefile */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 3302}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1687, 1750}";
+		};
+	};
+	22ACDB42146E9ACD0021C93A /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 737}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 446}";
+		};
+	};
+	22ACDB43146E9ACD0021C93A /* ArduinoProgram.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 737}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 322}";
+		};
+	};
+	22ACDB44146E9ACD0021C93A /* ArduinoProgram.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 397}}";
+			sepNavSelRange = "{376, 0}";
+			sepNavVisRange = "{0, 380}";
+		};
+	};
+	22ACDB76146E9AF60021C93A /* SoftwareSerial.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 2548}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2067}";
+		};
+	};
+	22ACDB77146E9AF60021C93A /* SoftwareSerial.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 762}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1601}";
+		};
+	};
+	22ACDB89146E9B170021C93A /* binary.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 6708}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{9139, 1240}";
+		};
+	};
+	22ACDB8A146E9B170021C93A /* HardwareSerial.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 3796}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1781, 1534}";
+		};
+	};
+	22F5F69B146EA68B004F0E2E /* README */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 737}}";
+			sepNavSelRange = "{1720, 52}";
+			sepNavVisRange = "{0, 1773}";
+		};
+	};
+	341FF4CB14EACB4200473FC1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	341FF4CC14EACB4200473FC1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	341FF4D514EACC8C00473FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 224BEDA81483E17E00A7506B /* Sanguino.xcconfig */;
+		name = "Sanguino.xcconfig: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 0;
+	};
+	341FF4D614EACC8C00473FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22ACDB89146E9B170021C93A /* binary.h */;
+		name = "binary.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1240;
+		vrLoc = 9139;
+	};
+	341FF4D714EACC8C00473FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22ACDB8A146E9B170021C93A /* HardwareSerial.cpp */;
+		name = "HardwareSerial.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1534;
+		vrLoc = 1781;
+	};
+	341FF4D814EACC8C00473FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22ACDB76146E9AF60021C93A /* SoftwareSerial.cpp */;
+		name = "SoftwareSerial.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2067;
+		vrLoc = 0;
+	};
+	341FF4D914EACC8C00473FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22ACDB77146E9AF60021C93A /* SoftwareSerial.h */;
+		name = "SoftwareSerial.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1601;
+		vrLoc = 0;
+	};
+	341FF51014EAE58200473FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22ACDB40146E9AC60021C93A /* Makefile */;
+		name = "Makefile: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1750;
+		vrLoc = 1687;
+	};
+	341FF51114EAE58200473FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 224BEDA71483E17E00A7506B /* _basic_arduino_settings.xcconfig */;
+		name = "_basic_arduino_settings.xcconfig: 10";
+		rLen = 0;
+		rLoc = 591;
+		rType = 0;
+		vrLen = 879;
+		vrLoc = 0;
+	};
+	341FF51214EAE58200473FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22ACDB42146E9ACD0021C93A /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+	341FF51314EAE58200473FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F5F69B146EA68B004F0E2E /* README */;
+		name = "README: 44";
+		rLen = 52;
+		rLoc = 1720;
+		rType = 0;
+		vrLen = 1773;
+		vrLoc = 0;
+	};
+	341FF51414EAE58200473FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22ACDB43146E9ACD0021C93A /* ArduinoProgram.h */;
+		name = "ArduinoProgram.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 0;
+	};
+	341FF52214EAE64300473FC1 /* MakeAndUpload */ = {
+		activeExec = 0;
+	};
+	341FF56114EAE6BB00473FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22ACDB44146E9ACD0021C93A /* ArduinoProgram.cpp */;
+		name = "ArduinoProgram.cpp: 15";
+		rLen = 0;
+		rLoc = 376;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 0;
+	};
+	34B2AA1814EB0FDE005488EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34B2AA1914EB0FDE005488EF /* stdlib.h */;
+		name = "stdlib.h: 194";
+		rLen = 52;
+		rLoc = 6425;
+		rType = 0;
+		vrLen = 2162;
+		vrLoc = 5465;
+	};
+	34B2AA1914EB0FDE005488EF /* stdlib.h */ = {
+		isa = PBXFileReference;
+		name = stdlib.h;
+		path = /usr/include/stdlib.h;
+		sourceTree = "<absolute>";
+	};
+	34B2AA1A14EB0FDE005488EF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Iostream: No such file or directory";
+		fRef = 34B2AA1B14EB0FDE005488EF /* Screen.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 9;
+		rType = 1;
+	};
+	34B2AA1B14EB0FDE005488EF /* Screen.cpp */ = {
+		isa = PBXFileReference;
+		name = Screen.cpp;
+		path = src/Screen.cpp;
+		sourceTree = "<group>";
+	};
+	34B2AA1C14EB0FDE005488EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22ACDB44146E9ACD0021C93A /* ArduinoProgram.cpp */;
+		name = "ArduinoProgram.cpp: 15";
+		rLen = 0;
+		rLoc = 376;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 0;
+	};
+}

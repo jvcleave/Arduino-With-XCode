@@ -1,0 +1,71 @@
+TScreen
+v7
+r0
+t350940400.466104
+cCheck dependencies
+cCompileC build/Example.build/Development/Screen.build/Objects-normal/i386/Screen.o /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/src/Screen.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Development/Screen normal i386
+
+N/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Development/Screen
+t1329247600
+s10308
+
+N/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Example.build/Development/Screen.build/Objects-normal/i386/Screen.LinkFileList
+c000000004F3AB4E70000000000000078
+t1329247463
+s120
+
+N/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Example.build/Development/Screen.build/Objects-normal/i386/Screen.o
+t1329247600
+s66084
+
+N/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/src/Screen.cpp
+c000000004F3AB56F0000000000000120
+t1329247599
+s288
+i<iostream>
+
+N/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/src/Screen.h
+c000000004F3AB4E600000000000001A7
+t1329247462
+s423
+i<stdio.h>
+i<stdlib.h>
+
+N/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350940400#350940400#0(0"0(0#1#0"8616648128#0"0#
+
+CCompileC build/Example.build/Development/Screen.build/Objects-normal/i386/Screen.o /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/src/Screen.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s350940400.425504
+e350940400.426632
+r1
+xCompileC
+xbuild/Example.build/Development/Screen.build/Objects-normal/i386/Screen.o
+x/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/src/Screen.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/src/Screen.cpp350940400#350940400#0(0"0(0#0#60"/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/src/Screen.cpp8615666080#1314"    cd /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Example.build/Development/Screen.build/Screen-generated-files.hmap -I/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Example.build/Development/Screen.build/Screen-own-target-headers.hmap -I/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Example.build/Development/Screen.build/Screen-all-target-headers.hmap -iquote /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Example.build/Development/Screen.build/Screen-project-headers.hmap -F/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Development -I/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Development/include -I/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Example.build/Development/Screen.build/DerivedSources/i386 -I/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Example.build/Development/Screen.build/DerivedSources -c /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/src/Screen.cpp -o /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Example.build/Development/Screen.build/Objects-normal/i386/Screen.o0#
+
+CLd /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Development/Screen normal i386
+s350940400.426708
+e350940400.466047
+r1
+xLd
+x/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Development/Screen
+xnormal
+xi386
+lSLF07#2@75"Link /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Development/Screen350940400#350940400#0(0"0(0#0#0"8615626272#442"    cd /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3    /Developer/usr/bin/g++-4.2 -arch i386 -L/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Development -F/Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Development -filelist /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Example.build/Development/Screen.build/Objects-normal/i386/Screen.LinkFileList -o /Volumes/EXTERNAL_JVC/ARDUINO/ArduinoOnXcode3/build/Development/Screen0#
+
